@@ -30,7 +30,13 @@ In the bar charts above, incarceration rates within the neighborhoods in Baltimo
 
 Similarily, this microview of the neighborhoods in Newport News compared by race. This shows that the Black population has higher incarceration rates than white neighborhoods in Newport News. Comapred to the excel analysis, there are no new findings. Both show similar results.  
 
-Between both cities, the black population incarcerations were higher. However, between Baltimore and Newport News, the mean incarceration rate was 0.042916.
+### What are the differences between both cities? 
+
+![BMORE table](https://github.com/EuniceNamkoong/Baltimore-NewportNews-Incarceration-Rates-Python/blob/main/BMORE%20black%20table.JPG)
+
+![NN table](https://github.com/EuniceNamkoong/Baltimore-NewportNews-Incarceration-Rates-Python/blob/main/NN%20black%20table.JPG)
+
+Between both cities, the black population incarcerations were higher. Although the difference between Baltimore and Newport News incarceration rates among black populations are not of stark differences, the mean for Baltimore is slightly higher. 
 
 ## Python vs. Excel Analysis Comparison 
 In the python analysis, we focused on data visualization using bar graphs. Our data showed us that incarceration rates are disproportionately distributed across neighborhoods in both cities. The results show that the incarceration rates are slightly higher for black demographics than white demographics. Compared to the excel analysis, there weren't stark differences or new findings. However, the method in which these data results were visualized differed. For excel, the [bar charts](https://github.com/EuniceNamkoong/Baltimore-NewportNews-IncarcerationRate-Data) that were used included a macroview comparison of overall average incarceration rate comparison of Baltimore vs. Newport News of all races. Additionally, the average incarceration rates among black vs. white populations were then split by city. 
