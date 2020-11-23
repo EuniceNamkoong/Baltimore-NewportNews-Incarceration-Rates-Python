@@ -35,4 +35,7 @@ Similarily, this microview of Newport News shows that the Black population is dr
 ## Summary 
 Comparing the Black and White populations incarceration rates, black populations are average to be more than three times more likely to be incarcerated in Balitmore and in Newport News. When it comes to racial disparities in criminal justice reform and policy change, there needs to be reform efforts in identifying structural disadvantages and implicit biases. 
 
+## Python vs. Excel Analysis 
+
+[![Open in Colab](https://colabl.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oofP8cEalM8yoDQWwv-kSRMRomYyHqKD?usp=sharing) A good Colaboratory notebook with 
 
